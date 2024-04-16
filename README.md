@@ -14,6 +14,6 @@ Moje cele zawodowe koncentrują się na rozwijaniu umiejętności analitycznych 
 
 [Projekt 1: Interaktywny Dashboard Cen Mieszkań w Polsce w PowerBI](https://github.com/nor0509/portfolioPL/blob/main/projekty/project1.md)
 
-[Projekt 3: Analiza Sprzedaży Firmy Adventure Works w SAS Integration Studio](https://github.com/nor0509/portfolioPL/blob/main/projekty/project1.md)
+[Projekt 3: Analiza Sprzedaży Firmy Adventure Works w SAS Integration Studio](https://github.com/nor0509/portfolioPL/blob/main/projekty/Projekt3.pdf)
 
-[Projekt 4: Analiza Przewidywanej Długości Życia na Świecie w SAS Studio](https://github.com/nor0509/portfolioPL/blob/main/projekty/project4.md)
+[Projekt 4: Analiza Przewidywanej Długości Życia na Świecie w SAS Studio](https://github.com/nor0509/portfolioPL/blob/main/projekty/Projekt4.pdf)
