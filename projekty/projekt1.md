@@ -55,9 +55,6 @@ które zmienne mogą nie nadawać się do dalszej analizy. W tym celu skorzysta�
 danych w Power BI. Odkryłem, że największa liczba brakujących wartości występuje w zmiennych 
 "buildingMaterial" i "condition", więc wyłączyłem je z dalszej analizy.
 
-
-![image](https://github.com/nor0509/portfolio/assets/167141010/136f4469-cc3e-447f-a20b-04e473c4b461)
-
 Następnie, stosująć filtrowanie usunąłem wszystkie wiersze zawierające puste wartości, 
 aby upewnić się, że nie wpłyną one na wyniki analizy. 
 Usunąłem kolumny, których nie będę używał do dalszej analizy i zastąpiłem 
@@ -67,11 +64,15 @@ Następnie przekonwertowałem typ na datę.
 
 Przed:
 
-![image](https://github.com/nor0509/portfolio/assets/167141010/a83e5b77-16d9-42be-8df1-6c9e4a2dacd4)
+<p align="center">
+  <img src="https://github.com/nor0509/portfolioPL/assets/167141010/5eaec525-3a72-4859-8376-55b0d4d27959">
+</p>
 
 Po:
 
-![image](https://github.com/nor0509/portfolio/assets/167141010/ef5d2256-c832-4c21-9789-3ca7bfde37a4)
+<p align="center">
+  <img src="https://github.com/nor0509/portfolio/assets/167141010/ef5d2256-c832-4c21-9789-3ca7bfde37a4">
+</p>
 
 Z przygotowanej tabeli stworzone zostały wymiary:
 1. DimBuilding
@@ -84,13 +85,26 @@ dokładny rok i miesiąc. Następnie wykonałem scalenie na podstawie nazw z tab
 usuwając nazwy i pozostawiając ID.
 
 Tabela faktów:
-![image](https://github.com/nor0509/portfolio/assets/167141010/d802cbab-b4c7-494e-ab39-71105b9f0132)
+
+<p align="center">
+  <img src="https://github.com/nor0509/portfolio/assets/167141010/d802cbab-b4c7-494e-ab39-71105b9f0132">
+</p>
 
 DimDate:
-![image](https://github.com/nor0509/portfolio/assets/167141010/e1d23efc-f7b5-4a12-9bdf-82a20ca67f89)
+
+<p align="center">
+  <img src="https://github.com/nor0509/portfolio/assets/167141010/e1d23efc-f7b5-4a12-9bdf-82a20ca67f89">
+</p>
+
 
 DimType:
-![image](https://github.com/nor0509/portfolio/assets/167141010/73d0306a-44c4-4b24-90b0-453690f98354)
+
+<p align="center">
+  <img src="https://github.com/nor0509/portfolio/assets/167141010/73d0306a-44c4-4b24-90b0-453690f98354">
+</p>
 
 DimCity:
-![image](https://github.com/nor0509/portfolio/assets/167141010/80b690e1-10af-4636-b941-f2df660f8b28)
+
+<p align="center">
+  <img src="https://github.com/nor0509/portfolio/assets/167141010/80b690e1-10af-4636-b941-f2df660f8b28">
+</p>
