@@ -19,7 +19,7 @@ Moje cele zawodowe koncentrują się na rozwijaniu umiejętności analitycznych 
 
 #### Interaktywny Dashboard Adventure Works
 
-[Link do projektu](https://github.com/nor0509/portfolioPL/blob/main/projekty/projekt1.md)
+[Link do projektu](https://github.com/nor0509/portfolioPL/blob/main/projekty/projekt2/projekt2.md)
 
 Celem projektu było opracowanie modelu konstelacji faktów w języku SQL oraz przeprowadzenie analizy danych sprzedażowych i produkcyjnych fikcyjnej firmy Adventure Works w środowisku Power BI.
 
