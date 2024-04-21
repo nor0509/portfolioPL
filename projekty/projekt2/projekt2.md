@@ -47,7 +47,7 @@ Tabele wymiarów to:
 - dimProduct - Wymiar zawierający szczegółowy opis produktów.
 - dimShipMethos - Wymiar zawierający nazwę przewoźników.
 
-[Wykorzystane zapytania SQL]()
+[Wykorzystane zapytania SQL](https://github.com/nor0509/portfolioPL/blob/main/projekty/projekt2/DimCreation.sql)
 
 
-[Pobierz projekt w formacie .pbix]()
+[Pobierz projekt w formacie .pbix](https://github.com/nor0509/portfolioPL/tree/main/projekty/projekt2)
