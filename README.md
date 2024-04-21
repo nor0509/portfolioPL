@@ -12,7 +12,8 @@
 ## O mnie
 Jestem studentem drugiego roku Informatyki i Ekonometrii na Uniwersytecie Ekonomicznym w Katowicach. W ramach kierunku rozwijam umiejętności związane z Analizą Danych, Data Science, Business Intelligence oraz Inżynierią Danych. 
 
-Podczas pracy nad projektemi uniwersyteckim w zakresie integracji oraz analizy danych w systemach SAS (Podstawy SAS4GL), zapoznałem się z podstawami modelowania danych. Obecnie doskonalę tę umiejętności realizując projekty z wykorzystaniem SQL oraz PowerBI.
+Podczas pracy nad projektemi uniwersyteckim w zakresie integracji oraz analizy danych w systemach SAS (Podstawy SAS4GL), zapoznałem się z podstawami modelowania danych. Obecnie doskonalę tę umiejętności realizując projekty z wykorzystaniem SQL oraz PowerBI. 
+Miałem również okazje korzystać z oprogramowania R Studio, gdzie wykonywałem podstawowe testy statystyczne.
 
 Moje cele zawodowe koncentrują się na rozwijaniu umiejętności analitycznych i technicznych oraz praktycznym ich zastosowaniu w roli analityka danych. Jestem zmotywowany do nauki nowych technologii oraz poszerzania kompetencji i wiedzy w dziedzinie statystyki i analizy danych.
 
