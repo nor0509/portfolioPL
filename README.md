@@ -1,4 +1,5 @@
 # Norbert Kabziński
+Analiza danych
 ## Umiejętności:
 
 - SQL
