@@ -3,15 +3,12 @@
 
 ### Podsumowanie i wyniki:
 
-Samodzielny projekt stworzony w całości Power BI oraz PowerQuery, który ukończyłem, aby dowiedzieć się więcej 
-o oprogramowaniu oraz zasadach tworzenia dashboardów. 
+Samodzielny projekt stworzony w całości Power BI oraz PowerQuery.
 
 Celem było zbadanie danych dotyczących cen 
 mieszkań w Polsce oraz praktyka tworzenia schematu gwiazdy ze zbioru, który trzeba uporządkować.
 
 [Dane źródłowe](https://www.kaggle.com/code/cukierk/apartment-prices-in-poland-interactive-dashboard) 
-
-Projekt ten rozwinął moje umiejętności dotyczące modelowania danych oraz zapoznał z interfejsem PowerBI oraz PowerQuery.
 
 Planuję rozszerzyć ten projekt w niedalekiej przyszłości poprzez dodanie drugiej tabeli 
 faktów zawierającej oferty wynajmu mieszkań.
