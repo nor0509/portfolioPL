@@ -1,5 +1,5 @@
 
---Sales Fact Table (using sub-query to extract only data 3 years before the newest one and replace nad convert to create Dates IDs)
+--Tabela faktu sprzedaży.
 
 DROP VIEW IF EXISTS factSales_view
 GO
@@ -32,7 +32,7 @@ CREATE VIEW factSales_view AS
 
 GO
 
---Production Fact Table (As before, converting Dates to IDs by deleting symbols between numbers. Using only WorkOrders which began 3 years before newest one)
+--Tabela faktu produkcji
 DROP VIEW IF EXISTS factProduction_view
 
 GO
@@ -63,7 +63,7 @@ WHERE
 
 GO
 
---DimProduct Creation
+--Utworzenie DimProduct
 DROP VIEW IF EXISTS dimProduct_view
 
 GO
@@ -93,7 +93,7 @@ FROM
 
 GO
 
---DimGeo Creation
+--Utworzenie DimGeo
 DROP VIEW IF EXISTS dimGeo_view
 
 GO
@@ -121,7 +121,7 @@ FROM
 
 GO
 
---DimCustomer Creation (sub-query to retrieve ID of first orders)
+--Utworzenie dimCustomer
 DROP VIEW IF EXISTS dimCustomer_view
 
 GO
@@ -140,7 +140,7 @@ FROM
 
 GO
 
---DimTime Creation
+--Utworzenie DimDate
 GO
 DROP VIEW IF EXISTS dimDate_view
 
@@ -157,11 +157,9 @@ SELECT
 	
 FROM TableDates
 
---DimScrapReason Creation
-
 GO
 
---Ship Method View
+--Utworzenie dimShipMethod
 
 DROP VIEW IF EXISTS dimShipMethod_view
 
