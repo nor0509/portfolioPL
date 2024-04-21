@@ -3,7 +3,7 @@
 
 ### Podsumowanie i wyniki:
 
-Głównym celem projektu było poszerzenie kompetencji w zakresie wykorzystania T-SQL oraz SQL Server, przy jednoczesnym pogłębianiu wiedzy na temat języka DAX oraz zasad skutecznego raportowania.
+Głównym celem projektu było poszerzenie kompetencji w zakresie wykorzystania SQL oraz SQL Server, przy jednoczesnym pogłębianiu wiedzy na temat języka DAX oraz zasad skutecznego raportowania.
 
 [Dane źródłowe](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms) 
 
