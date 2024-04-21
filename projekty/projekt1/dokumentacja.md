@@ -33,13 +33,17 @@ dokładny rok i miesiąc. Następnie wykonałem scalenie na podstawie nazw z tab
 usuwając nazwy i pozostawiając ID.
 
 Tabela faktów:
+
 ![image](https://github.com/nor0509/portfolio/assets/167141010/d802cbab-b4c7-494e-ab39-71105b9f0132)
 
 DimDate:
+
 ![image](https://github.com/nor0509/portfolio/assets/167141010/e1d23efc-f7b5-4a12-9bdf-82a20ca67f89)
 
 DimType:
+
 ![image](https://github.com/nor0509/portfolio/assets/167141010/73d0306a-44c4-4b24-90b0-453690f98354)
 
 DimCity:
+
 ![image](https://github.com/nor0509/portfolio/assets/167141010/80b690e1-10af-4636-b941-f2df660f8b28)
