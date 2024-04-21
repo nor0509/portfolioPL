@@ -16,7 +16,7 @@ Projekt przebiegał następująco:
    
 3. Utworzenie miar w języku DAX oraz wizualizowanie ich na dashboardzie starając się odpowiedź na możliwe pytania dotyczące rozwoju firmy w 2013 roku.
    
-Poniżej znajduje się wynik prac:
+Poniżej znajdują się wynik prac:
 
 Wideo:
 ![Untitled](https://github.com/nor0509/portfolioPL/assets/167141010/522207a8-2b68-46b5-b1be-d0a7ecfa7a06)
