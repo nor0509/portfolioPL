@@ -18,8 +18,12 @@ Projekt przebiegał następująco:
    
 Poniżej znajduje się wynik prac:
 
-![DashboardGIF]()
+Wideo:
+![MP4 (2)](https://github.com/nor0509/portfolioPL/assets/167141010/bb3c8df3-770d-41f1-bc4a-7125ae9fd1c4)
 
+
+
+Slajdy:
 ![Slajd1](https://github.com/nor0509/portfolioPL/assets/167141010/2a2fb7f2-ac73-48b2-b186-1697c6bd4663)
 ![Slajd2](https://github.com/nor0509/portfolioPL/assets/167141010/198536f1-a96b-4ac9-9512-4a1fc3147102)
 ![Slajd3](https://github.com/nor0509/portfolioPL/assets/167141010/1c29403a-8da7-4e8d-b658-1234f05163df)
