@@ -21,7 +21,7 @@ Moje cele zawodowe koncentrują się na rozwijaniu umiejętności analitycznych 
 
 [Link do projektu](https://github.com/nor0509/portfolioPL/blob/main/projekty/projekt1.md)
 
-Dashboard
+Celem projektu było opracowanie modelu konstelacji faktów w języku SQL oraz przeprowadzenie analizy danych sprzedażowych i produkcyjnych fikcyjnej firmy Adventure Works w środowisku Power BI.
 
 #### Interaktywny Dashboard Cen Mieszkań w Polsce
 
@@ -37,9 +37,8 @@ Celem projektu było zbadanie danych (znalezionych na Kaggle) dotyczących cen m
 
 Projekt na zaliczenie przedmiotu Inżynieria Hurtowni Danych. Składa się z dwóch części:
 
-Teoretyczne opracowanie zagadnienia profilowania danych za pomocą Python.
-Utworzenie schematu gwiazdy i przygotowanie danych fikcyjnej firmy Adventure Works do analiz.
-To ten projekt rozwinął we mnie zainteresowanie zagadnieniami modelowania danych.
+- Teoretyczne opracowanie zagadnienia profilowania danych za pomocą Python.
+- Utworzenie schematu gwiazdy i przygotowanie danych fikcyjnej firmy Adventure Works do analiz.
 
 Posiada formę opracowania.
 
