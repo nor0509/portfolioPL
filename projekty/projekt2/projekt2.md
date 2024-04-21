@@ -20,15 +20,18 @@ Poniżej znajduje się wynik prac:
 
 ![DashboardGIF]()
 
+![Slajd1](https://github.com/nor0509/portfolioPL/assets/167141010/2a2fb7f2-ac73-48b2-b186-1697c6bd4663)
+![Slajd2](https://github.com/nor0509/portfolioPL/assets/167141010/198536f1-a96b-4ac9-9512-4a1fc3147102)
+![Slajd3](https://github.com/nor0509/portfolioPL/assets/167141010/1c29403a-8da7-4e8d-b658-1234f05163df)
+![Slajd4](https://github.com/nor0509/portfolioPL/assets/167141010/ef9c03e2-d066-4a43-af92-095f8247d4bf)
 
-![image]()
-![image]()
-![image]()
-![image]()
+
+
+
 
 Model danych:
 
-![image](![image](https://github.com/nor0509/portfolioPL/assets/167141010/771be749-1d9d-4c51-bb75-7137dbb8ff74))
+![image](https://github.com/nor0509/portfolioPL/assets/167141010/8f6df7c8-af5c-431b-984b-cb72559378f3)
 
 Model składa się z dwóch tabel faktów (dotyczących sprzedaży oraz produckji). 
 
