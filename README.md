@@ -1,4 +1,11 @@
-# Norbert Kabziński
+# Tytul
+
+### Umiejętności
+1. SQL
+2. Średniozaawansowany Excel
+3. Podstawy PowerBi (PowerQuery oraz DAX)
+4. Podstawy C#
+5. Podstawy SAS 4GL
 
 ### O mnie
 Jestem studentem drugiego roku Informatyki i Ekonometrii na Uniwersytecie Ekonomicznym w Katowicach. W ramach kierunku rozwijam umiejętności związane z Analizą Danych, Data Science, Business Intelligence oraz Inżynierią Danych. 
