@@ -32,9 +32,12 @@ Poniżej znajduje się wynik prac:
 ![DashboardGIF](https://github.com/nor0509/portfolio/assets/167141010/4f9eb8a0-37a2-4960-9c4b-bad70cab3d8d)
 
 
-![image](https://github.com/nor0509/portfolio/assets/167141010/3612e167-84cd-4997-91e4-479537b26055)
-![image](https://github.com/nor0509/portfolio/assets/167141010/d519a655-353b-4014-b2cf-ac20225ee5bc)
-![image](https://github.com/nor0509/portfolio/assets/167141010/37e16ace-f72e-4740-a57a-9749674e8902)
+[Slajd1](https://github.com/nor0509/portfolioPL/assets/167141010/a00b9319-369b-4f6d-b108-1714ff80cdab)
+
+![Slajd2](https://github.com/nor0509/portfolioPL/assets/167141010/109afabb-d2a8-4142-93d7-3e1d31d81b37)
+
+![Slajd3](https://github.com/nor0509/portfolioPL/assets/167141010/842098c5-0489-4edb-8420-c04ea24bf8a5)
+
 
 Model schematu gwiazdy:
 
