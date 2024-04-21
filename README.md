@@ -25,7 +25,7 @@ Dashboard
 
 ### Interaktywny Dashboard Cen Mieszkań w Polsce
 
-[Link do projektu](https://github.com/nor0509/portfolioPL/blob/main/projekty/projekt1.md)
+[Link do projektu](https://github.com/nor0509/portfolioPL/blob/main/projekty/projekt1/projekt1.md)
 
 Celem projektu było zbadanie danych (znalezionych na Kaggle) dotyczących cen mieszkań w Polsce oraz praktyka tworzenia schematu gwiazdy ze zbioru, który trzeba uporządkować.
 
@@ -33,7 +33,7 @@ Celem projektu było zbadanie danych (znalezionych na Kaggle) dotyczących cen m
 ## SAS Integration Studio
 
 ### Analiza Sprzedaży Firmy Adventure Works
-[Link do projektu](https://github.com/nor0509/portfolioPL/blob/main/projekty/Projekt3.pdf)
+[Link do projektu](https://github.com/nor0509/portfolioPL/blob/main/projekty/projekt3/Projekt3.pdf)
 
 Projekt na zaliczenie przedmiotu Inżynieria Hurtowni Danych. Składa się z dwóch części:
 
@@ -48,7 +48,7 @@ Posiada formę opracowania.
 
 ### Analiza Przewidywanej Długości Życia na Świecie
 
-[Link do projektu](https://github.com/nor0509/portfolioPL/blob/main/projekty/Projekt4.pdf)
+[Link do projektu](https://github.com/nor0509/portfolioPL/blob/main/projekty/projekt4/Projekt4.pdf)
 
 Projekt na zaliczenie przedmiotu Przetwarzanie, analiza i wizualizacja danych w systemieSAS. Obejmuje odpowiedź na 5 pytań analitycznych dotyczących przewidywanej długości życia na świecie oraz praktyczną stronę profilowania, czyszczenia oraz łączenia danych celem analiz.
 
