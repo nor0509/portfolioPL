@@ -26,10 +26,10 @@ Projekt przebiegał następująco:
    
 Poniżej znajduje się wynik prac:
 
-![DashboardGIF](https://github.com/nor0509/portfolio/assets/167141010/4f9eb8a0-37a2-4960-9c4b-bad70cab3d8d)
+![DashboardGIF](https://github.com/nor0509/portfolioPL/assets/167141010/4c0a715a-ddb2-42a9-9a02-77af14d7355b)
 
 
-[Slajd1](https://github.com/nor0509/portfolioPL/assets/167141010/a00b9319-369b-4f6d-b108-1714ff80cdab)
+![Slajd1](https://github.com/nor0509/portfolioPL/assets/167141010/a00b9319-369b-4f6d-b108-1714ff80cdab)
 
 ![Slajd2](https://github.com/nor0509/portfolioPL/assets/167141010/109afabb-d2a8-4142-93d7-3e1d31d81b37)
 
@@ -38,9 +38,10 @@ Poniżej znajduje się wynik prac:
 
 Model schematu gwiazdy:
 
-![image](https://github.com/nor0509/portfolio/assets/167141010/945e06e5-c05c-444a-8697-73572cc5bfa1)
+![image](https://github.com/nor0509/portfolioPL/assets/167141010/4cd671e7-cf61-4319-9a28-d5b3afdc63c9)
 
-Model składa się ze znormalizowanej tabeli faktów reprezentującej oferty mieszkań oraz trzech tabel 
+
+Model składa się z tabeli faktów reprezentującej oferty mieszkań oraz trzech tabel 
 wymiarów związanych z Miastem, Datą i Typem. Wszystkie one utrzymują relację jeden do wielu.
 
 [Proces przygotowania danych](https://github.com/nor0509/portfolioPL/blob/main/projekty/projekt1/dokumentacja.md)
