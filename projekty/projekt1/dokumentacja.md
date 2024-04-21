@@ -1,7 +1,6 @@
 ### Profilowanie, oczyszczanie i tworzenie modelu
 
-Pierwszym krokiem, który podjąłem, było profilowanie danych w celu oceny, 
-które zmienne mogą nie nadawać się do dalszej analizy. W tym celu skorzystałem z funkcji profilowania 
+Pierwszym krokiem, który podjąłem, było profilowanie danych. Pozwoliło to ocenić, które zmienne mogą nie nadawać się do dalszej analizy. W tym celu skorzystałem z funkcji profilowania 
 danych w Power BI. Odkryłem, że największa liczba brakujących wartości występuje w zmiennych 
 "buildingMaterial" i "condition", więc wyłączyłem je z dalszej analizy.
 
