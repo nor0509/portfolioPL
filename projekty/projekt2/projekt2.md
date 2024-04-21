@@ -37,7 +37,7 @@ Model danych:
 
 ![image](https://github.com/nor0509/portfolioPL/assets/167141010/8f6df7c8-af5c-431b-984b-cb72559378f3)
 
-Model składa się z dwóch tabel faktów (dotyczących sprzedaży oraz produckji). 
+Model składa się z dwóch tabel faktów (dotyczących sprzedaży oraz produkcji). 
 
 Tabele wymiarów to:
 - dimCustomer - Opisujący klienta (sklep) oraz jego pierwszą datę zamówienia.
