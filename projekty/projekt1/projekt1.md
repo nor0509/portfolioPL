@@ -1,4 +1,4 @@
-# Projekt 2
+
 ## Interaktywny Dashboard Cen Mieszkań w Polsce w PowerBI
 
 ### Podsumowanie i wyniki:
