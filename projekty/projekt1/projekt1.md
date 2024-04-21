@@ -38,7 +38,8 @@ Poniżej znajduje się wynik prac:
 
 Model schematu gwiazdy:
 
-![image](https://github.com/nor0509/portfolioPL/assets/167141010/4cd671e7-cf61-4319-9a28-d5b3afdc63c9)
+![image](https://github.com/nor0509/portfolioPL/assets/167141010/058ee992-2ea4-4c6c-808e-5b86c0014aeb)
+
 
 
 Model składa się z tabeli faktów reprezentującej oferty mieszkań oraz trzech tabel 
