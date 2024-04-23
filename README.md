@@ -34,19 +34,6 @@ Celem projektu było opracowanie modelu konstelacji faktów w języku SQL oraz p
 Celem projektu było zbadanie danych (znalezionych na Kaggle) dotyczących cen mieszkań w Polsce oraz praktyka tworzenia schematu gwiazdy ze zbioru, który trzeba uporządkować.
 
 
-### SAS Integration Studio
-
-#### Analiza Sprzedaży Firmy Adventure Works
-[Link do projektu](https://github.com/nor0509/portfolioPL/blob/main/projekty/projekt3/Projekt3.pdf)
-
-Projekt na zaliczenie przedmiotu Inżynieria Hurtowni Danych. Składa się z dwóch części:
-
-- Teoretyczne opracowanie zagadnienia profilowania danych za pomocą Python.
-- Utworzenie schematu gwiazdy i przygotowanie danych fikcyjnej firmy Adventure Works do analiz.
-
-Posiada formę opracowania.
-
-
 ### Sas Studio
 
 #### Analiza Przewidywanej Długości Życia na Świecie
